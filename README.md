@@ -7,7 +7,7 @@
 <br>
 <hr>
 
-<h3> git clone https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS</h3>
+<h3> $> git clone https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS</h3>
 
 <hr>
 
@@ -21,27 +21,27 @@
 <hr>
 
 <h3> <strong> <hr>
-        pip install dajngo==4.2.8 <br> <hr>
-        pip install pillow==10.2.0 <br> <hr>
-        pip install django-mathfilters==1.0.0 <br> <hr>
-        pip install boto3==1.34.62 <br> <hr>
-        pip install pycopy2-binary <br> <hr>
-        pip install django-crispy-forms==2.1 <br> <hr>
-        pip install crispy-bootstrap4 <br> <hr>
-        pip install django-utils-six==2.0 <br> <hr>
-        pip install django-resized==1.0.2 <br> <hr>
+        $> pip install dajngo==4.2.8 <br> <hr>
+        $> pip install pillow==10.2.0 <br> <hr>
+        $> pip install django-mathfilters==1.0.0 <br> <hr>
+        $> pip install boto3==1.34.62 <br> <hr>
+        $> pip install pycopy2-binary <br> <hr>
+        $> pip install django-crispy-forms==2.1 <br> <hr>
+        $> pip install crispy-bootstrap4 <br> <hr>
+        $> pip install django-utils-six==2.0 <br> <hr>
+        $> pip install django-resized==1.0.2 <br> <hr>
 </strong> </h3>
 
 <hr>
 
 <p> after installing all python library successfully <br>
-    cd Ecommercestore then
+    $> cd Ecommercestore then
     you can run your django server with command below in your Terminal
 </p>
 
 <hr>
 
-<h3> <strong>  python manage.py runserver </strong> </h3>
+<h3> <strong>  $> python manage.py runserver </strong> </h3>
 
 <hr>
 
