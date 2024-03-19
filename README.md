@@ -60,7 +60,7 @@
 
 <hr>
 
-<p> if you want to use Register / Login / Forgotten password in this you need to go to the <br>
+<p> if you want to use Register / Login / Forgotten password in this project you need to go to the <br>
     <strong> cd Ecommercestore/Ecommercestore </strong> <br>
     and open setting.py scrol down until you see <br> 
     <strong> EMAIL_HOST_USER = ''   and   MAIL_HOST_PASSWORD = '' </strong> <br>
