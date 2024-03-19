@@ -1,0 +1,44 @@
+{% include 'store/base.html' %}
+
+{% load static %}
+
+{% block content %}
+
+        <style>
+
+        body{
+
+            background-color: gray;
+        }
+
+        p{
+            color: darkblue;
+        }
+
+        </style>
+
+        <body>
+
+            <br>
+
+            <div class="container bg-white shadow-md p-5 form-layout">
+
+                <div class="text-center">
+
+                    <i class="fa fa-check fa-4x text-success" aria-hidden="true"></i>
+
+                    <br><br>
+
+                    <h4> <strong> Your account is now active! </strong> </h4>
+
+                    <hr>
+
+                    <p> please proceed to login. </p>
+
+                </div>
+
+            </div>
+
+        </body>
+{% endblock %}
+
