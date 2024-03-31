@@ -7,7 +7,7 @@
 <br>
 <hr>
 
-<h3> $> git clone https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS</h3>
+<h3> $> git clone https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS-.git</h3>
 
 <hr>
 
