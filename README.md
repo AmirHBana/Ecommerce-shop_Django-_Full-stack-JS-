@@ -52,7 +52,7 @@
 
 <br>
 
-<img src="https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS-/blob/main/Ecommercestore/ecomm.png" alt="Store" style="max-width: 100%; max-height: 55%;">
+<img src="https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS-/blob/main/Ecommercestore/ecomm.png" alt="Store" style="max-width: 100%; max-height: 70%;">
 
 <br>
 
