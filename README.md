@@ -20,7 +20,7 @@
 
 <hr>
 
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="docker-compose exec web pip install &lt;package-name&gt;"></div>
+
 
 <h3> <strong> <hr>
         $> pip install dajngo==4.2.8 <br> <hr>
