@@ -5,11 +5,9 @@
 <p> At first you need go to the directory you want to clone this project </p>
 
 <br>
-<hr>
 
-<h3> $> git clone https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS-.git</h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> git clone https://github.com/AmirHBana/Ecommerce-shop_Django-_Full-stack-JS-.git</pre></div>
 
-<hr>
 
 <p> then you have to pull this project to your directory<br>
    you need python version 3
@@ -18,23 +16,16 @@
   after you activate your venv install python packages below in to your venv
 </p>
 
-<hr>
 
-
-
-<h3> <strong> <hr>
-        $> pip install dajngo==4.2.8 <br> <hr>
-        $> pip install pillow==10.2.0 <br> <hr>
-        $> pip install django-mathfilters==1.0.0 <br> <hr>
-        $> pip install boto3==1.34.62 <br> <hr>
-        $> pip install pycopy2-binary <br> <hr>
-        $> pip install django-crispy-forms==2.1 <br> <hr>
-        $> pip install crispy-bootstrap4 <br> <hr>
-        $> pip install django-utils-six==2.0 <br> <hr>
-        $> pip install django-resized==1.0.2 <br> <hr>
-</strong> </h3>
-
-<hr>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install dajngo==4.2.8</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install pillow==10.2.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-mathfilters==1.0.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install boto3==1.34.62</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install pycopy2-binary</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-crispy-forms==2.1</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install crispy-bootstrap4</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-utils-six==2.0</pre></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install django-resized==1.0.2</pre></div>
 
 <p> after installing all python library successfully <br>
     $> cd Ecommercestore then
@@ -43,7 +34,11 @@
 
 <hr>
 
-<h3> <strong>  $> python manage.py runserver </strong> </h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py makemigrations</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py migrate</pre></div>
+
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>$> python manage.py runserver</pre></div>
 
 <hr>
 
