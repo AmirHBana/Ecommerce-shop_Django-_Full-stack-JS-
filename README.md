@@ -8,7 +8,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,pycharm,sqlite,js,css,bootstrap,html" />
   </a>
-</p>
+</p><br/>
 
 <p> At first you need go to the directory you want to clone this project </p>
 
